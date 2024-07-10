@@ -23,6 +23,7 @@ The following will be used throughout the ETL workshop.
 - Airbyte
 
 - Mage
+- 
 
 - psycopg
 
